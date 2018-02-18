@@ -25,8 +25,8 @@ Please help the carpenter optimize storage of these items as described above by 
 **Output**
 The output of the your program should be one of the following:
 > - An integer representing the cabinet the last item (as specified by the last line of input) was taken from, ranging from 1 (nearest) to N (furthest)
-> - ‘NEW’. if the item was newly created
-> - 'OUTSIDE’. if the item was outside
-> - ‘INPUT_ERROR’ if the input was somehow incorrect
+> - `NEW` if the item was newly created
+> - `OUTSIDE` if the item was outside
+> - `INPUT_ERROR` if the input was somehow incorrect
 
 > *Sample input and their respective output can be found [here.](https://github.com/prasannjeet/A-Carpenter-and-his-Cupboard/tree/master/Q8%20Test%20Case)*
